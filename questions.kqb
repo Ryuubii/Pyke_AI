@@ -1,21 +1,21 @@
 # questions.kqb
 
 is_woman($ans)
-	Is this charater woman?
+	Is this character woman?
 	---
 	$ans = yn
 	
 is_superhuman($ans)
-	Is this charater super human?
+	Is this character super human?
 	---
 	$ans = yn
 
 is_product_of_science($ans)
-	Is this charater product of science?
+	Is this character product of science?
 	---
 	$ans = yn
 	
 is_rich($ans)
-	Is this charater rich?
+	Is this character rich?
 	---
 	$ans = yn	
